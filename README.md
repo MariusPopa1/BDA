@@ -14,7 +14,7 @@ motivation being that python boasts an extensive collection of libraries for dat
     set SPOTIFY_REDIRECT_URI 'http://localhost:8888/callback'  
     set YOUTUBE_API_KEY <your_youtube_api_key> 
 
-* Required libraries in python
+### Required libraries in python
     spotipy==2.16.1
     requests==2.25.0
     oauth2client==4.1.3
