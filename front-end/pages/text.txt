@@ -1,0 +1,21 @@
+<p id="MainP">Transfer playlists from YouTube and Spotify</p>
+          <p id="SecondaryP">Transfer all your tracks in 1 click only with link quickly and free.</p>
+          <div className="Now">
+            <p>
+              Now: Transfer to Spotify
+            </p>
+            <button onClick={handleButtonClick}><p>YouTube to Spotify</p></button>
+          </div>
+          <div className="Transfer">
+            <p>Transfer Youtube playlist to Spotify</p>
+            <input className="TransferInput" type="text" placeholder="Enter YouTube playlist link..."></input>
+            <input className="TransferInput" type="text" placeholder="Enter Spotify playlist name..."></input>
+            <button><p>Transfer to Spotify</p></button>
+          </div>
+          <div className="Now">
+            <p>
+              Now: Transfer to YouTube
+            </p>
+            <button onClick={handleButtonClick}><p>Spotify to YouTube</p></button>
+          </div>
+          <div className="Transfer"></div>
