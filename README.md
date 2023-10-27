@@ -7,7 +7,7 @@ motivation being that python boasts an extensive collection of libraries for dat
 * Edit the file by adding your credentials
     Run the following command to set your environment variable source .env
 
-* Setting Environment Variables (Windows)
+### Setting Environment Variables (Windows)
     set SPOTIFY_USER_ID <your_user_id>  
     set SPOTIFY_CLIENT_ID <your_client_id>  
     set SPOTIFY_CLIENT_SECRET <your_client_secret>  
