@@ -5,7 +5,8 @@ motivation being that python boasts an extensive collection of libraries for dat
 ## How to install and run the project:
 ### Setting Environment Variables Mac and Linux
 * Edit the file by adding your credentials
-    Run the following command to set your environment variable source .env
+    Run the following command to set your environment variable 
+    source .env
 
 ### Setting Environment Variables (Windows)
     set SPOTIFY_USER_ID <your_user_id>  
