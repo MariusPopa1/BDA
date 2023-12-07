@@ -1,3 +1,3 @@
 # BDA
-YouTube-to-Spotify
-Backend branch
+* YouTube-to-Spotify
+* Backend branch
