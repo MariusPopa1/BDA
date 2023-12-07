@@ -4,8 +4,9 @@ Our web app transfers Youtube playlists to spotify, working mainly in Python, wi
 motivation being that python boasts an extensive collection of libraries for data manipulation and even offers some API libraries for the websites we will use, making our work much easier. At the moment of writing this, we have yet to tie everything together, and implement it all into a fully working web app, but that is not far in our future and we look forward to completing our work.
 ## How to install and run the project:
 ### Setting Environment Variables Mac and Linux
-* Edit the file by adding your credentials
-    Run the following command to set your environment variable:
+1. Rename the file .env.sample to .env
+2. Edit the file by adding your credentials
+3. Run the following command to set your environment variable:
      _source .env_
 
 ### Setting Environment Variables (Windows)
